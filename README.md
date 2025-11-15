@@ -19,13 +19,7 @@ A modern, polished random playlist generator using the Spotify API and Flet.
 ## Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/spotify-random-playlist-generator.git
-cd spotify-random-playlist-generator
-```
-
-1. Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install spotipy flet keyring requests
