@@ -18,7 +18,7 @@ A modern, polished random playlist generator using the Spotify API and Flet.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 2. Install dependencies:
 
 ```bash
